@@ -16,8 +16,8 @@
 title: David Dropinski
 email: david@dropinski.com
 description: > # this means to ignore newlines until "baseurl:"
-  David is trying to learn something new every day. Follow his progress
-  here!
+  Every day, I will learn something new and write about it.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dropinski.com" # the base hostname & protocol for your site
 twitter_username: ddropinski
