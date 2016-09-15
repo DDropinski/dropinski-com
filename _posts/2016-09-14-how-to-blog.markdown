@@ -2,6 +2,7 @@
 layout: post
 title:  "Today, I learned how to blog"
 date:   2016-09-14 22:55:00 -0500
+category: blog
 tags: welcome TIL meta
 ---
 Hello and welcome to my blog! I've thought about blogging dozens of times, but I never put the work in. Today I did.
